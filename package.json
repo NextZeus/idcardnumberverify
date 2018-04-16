@@ -5,11 +5,11 @@
   "main": "service.js",
   "dependencies": {
     "async": "^2.0.1",
-    "soap": "^0.17.0",
+    "soap": "^0.24.0",
     "underscore": "^1.8.3",
     "xml2js": "^0.4.17",
-    "xml2json": "^0.10.0",
-    "xmlbuilder": "^8.2.2"
+    "xml2json": "^0.11.2",
+    "xmlbuilder": "^9.0.7"
   },
   "devDependencies": {
     "xmlbuilder"  : "*",
